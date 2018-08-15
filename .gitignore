@@ -1,2 +1,5 @@
-start, target
-/target/
+start
+target/
+
+.settings
+.classpath
